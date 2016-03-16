@@ -2,6 +2,9 @@
 Plot theta as a function of thetha' for an object that emits uniformly in space
 and moving in a reletivistic speed of beta
 this is an assignment from class 2
+
+
+
 '''
 import numpy as np
 from my_plot import My_Plot
