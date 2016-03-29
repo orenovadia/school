@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+from scipy.optimize import fsolve
 from tools import multipage
 
 omega_m = 0.3
@@ -58,4 +59,4 @@ plt.grid()
 #plt.show()
 
 
-multipage('cosmo1_figs.pdf')
+multipage('~/sw/school/cosmo1.pdf')
